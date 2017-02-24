@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherWorm</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="intro_text">This is an app that tells you when it\'s sunny outside.</string>
+
+    <string name="permissions">Please be sure to enable the location and internet permissions to use this app</string>
+
+    <string name="sun_description">A sun.</string>
+    <string name="dark_description">No sun.</string>
+</resources>
